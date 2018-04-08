@@ -3,8 +3,5 @@
 3. Kole-Ibrahim AbdulQudus @femi_dd
 4. Ezike Tobenna @Tobey
 5. Kayode Samuel @Sampam.
-<<<<<<< HEAD
 6. Ojo Babajide @Geedhey
-=======
-6. Kingsley Arinze @King-Success
->>>>>>> 6018ed2995a37d75f5997b33708eaa58e25d9c85
+7. Kingsley Arinze @King-Success
