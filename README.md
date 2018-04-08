@@ -35,11 +35,11 @@ As soon as you complete stage 1 task, please exit stage0 channel
 ### Pre-requisite
 1. Set your profile picture.
 2. Setup a Git account and learn how to use Git. 
-    * Free GitHub private account for the next 1 year. Use this link to redeem: [https://github.com/redeem/hng_ingressive_github](URL), or use the coupon code HNG_INGRESSIVE_GITHUB on your existing github account. Once done, give a shout-out to @GitHubCommunity @GitHubEducation and @_Ingressive_ on Twitter
+    * Free GitHub private account for the next 1 year. Use this link to redeem: [https://github.com/redeem/hng_ingressive_github](https://github.com/redeem/hng_ingressive_github), or use the coupon code HNG_INGRESSIVE_GITHUB on your existing github account. Once done, give a shout-out to @GitHubCommunity @GitHubEducation and @_Ingressive_ on Twitter
 3. Setup a Figma account. 
     * Figma is the first interface design tool with real-time collaboration. It keeps everyone on the same page. Focus on the work instead of fighting your tools.
 
-    1. Go to [figma.com](URL)
+    1. Go to [figma.com](figma.com)
     2. Click Sign Up at the top right side of your screen
     3. Enter your details and Sign Up
     4. Go to your MailBox for a confirmation link which returns you back to your figma profile
