@@ -90,7 +90,7 @@ As soon as you complete stage 1 task, please exit stage0 channel
         Make sure you're using a user that has *`sudo`* privileges
         *NOTE!!!*
         Do not run these commands as a root user i.e. your terminal would use the # symbol, always make sure you're seeing this symbol $
-        I take no responsibility for what ever damage you incur on your system is you do the wrong thing
+        I take no responsibility for what ever damage you incur on your system if you do the wrong thing
 
         Step 1 - Update the `apt` package index
 
