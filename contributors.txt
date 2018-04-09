@@ -40,4 +40,6 @@
 39. Cyril Ofem Uket @syziddy65
 40. Ekwunife Winifred @winnie_fred
 41. Ameh Samuel @pr0p3rsAm
+<<<<<<< HEAD
 42. Akanbi Tunde Lawal @Techieman
+43. Oseni Luthfulahi Olaitan @luteeph01
