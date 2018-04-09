@@ -24,10 +24,9 @@
 24. Olayinka Raheem @Olayinka Raheem
 25. Ekpono Joseph Ambrose @ekpono
 26. Eleng, Efa-Iwa @sage001
-<<<<<<< HEAD
 27. Bakwenye Chiedu Emmanuel @nedu
-=======
-27. Peter Amugen @Payne
->>>>>>> 59e543bc6f13490f440e1003367bf185e70b34c0
-28. Bakwenye Chiedu Emmanuel @nedu
-29. Adesile Emmanuel Mayowa @emmaadesile
+28. Peter Amugen @Payne
+29. Bakwenye Chiedu Emmanuel @nedu
+30. Ojoawo Solomon Oluwakayode @kaykluz
+31. Adesile Emmanuel Mayowa @emmaadesile
+
