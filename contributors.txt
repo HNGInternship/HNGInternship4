@@ -16,7 +16,7 @@
 16. Edidiong Asikpo @Didicodes
 17. Victor Alagwu @Victor
 18. Tejumola David Timi @timi
-19.Ayeko Ayobamidele@ayobamidele
+19. Ayeko Ayobamidele@ayobamidele
 20. Osumgba Chiamaka @Pearl
 21. Miracle Joseph	@tiarayuppy
 22. Godswill Effiong Okokon @godswillokokon
@@ -26,7 +26,6 @@
 26. Ekpono Joseph Ambrose @ekpono
 27. Eleng, Efa-Iwa @sage001
 28. Peter Amugen @Payne
-<<<<<<< HEAD
 29. Bakwenye Chiedu Emmanuel @nedu
 30. Ojoawo Solomon Oluwakayode @kaykluz
 31. Adesile Emmanuel Mayowa @emmaadesile
@@ -71,4 +70,6 @@
 50. Dike Precious @supardyke
 51. Afolayan David @thekinglaolu
 52. Adeegbe Oluyemi @adeegbe
-53. Ogundiji Bolade Adio
+53. Ogundiji Bolade Adio 
+54. John Olubori David @Olubori
+55. Ayo-Salami Ayobami @bamii
