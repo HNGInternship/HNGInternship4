@@ -14,7 +14,7 @@ Table of Contents
 
 ---
 ## Introduction
- Please invite others who are interested in learning to code. Use this link: [Click Me!](https://join.slack.com/t/hnginternship4/shared_invite/enQtMzQwOTU4NzAwNjExLWQ0NWFlZDBmNjRkMTRkNGZmYjQ5MzA0YmUzZDBiZDEzOTBkZGE1ZWUxZTI1YjkxMTQ5N2MyZTMyMzBmMTEyOWM)
+ Please invite others who are interested in learning to code. Use this link: [Click Me!](https://bit.ly/2Jv2VNj)
 
 > Please do invite all others who may be interested in the internship
 
