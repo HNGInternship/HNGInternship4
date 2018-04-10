@@ -1,4 +1,4 @@
-# Hotel.NG Intership 4
+# Hotels.NG Internship 4
 
 
 
@@ -35,7 +35,7 @@ As soon as you complete stage 1 task, please exit stage0 channel
 ### Pre-requisite
 1. Set your profile picture.
 2. Setup a Git account and learn how to use Git. 
-    * Free GitHub private account for the next 1 year. Use this link to redeem: [https://github.com/redeem/hng_ingressive_github](https://github.com/redeem/hng_ingressive_github), or use the coupon code HNG_INGRESSIVE_GITHUB on your existing github account. Once done, give a shout-out to @GitHubCommunity @GitHubEducation and @_Ingressive_ on Twitter
+    * Free GitHub private account for the next 1 year. Use this link to redeem: [https://github.com/redeem/hng_ingressive_github](https://github.com/redeem/hng_ingressive_github), or use the coupon code HNG_INGRESSIVE_GITHUB on your existing github account. Once done, give a shout-out to @GitHubCommunity, @GitHubEducation and @_Ingressive_ on Twitter
 3. Setup a Figma account. 
     * Figma is the first interface design tool with real-time collaboration. It keeps everyone on the same page. Focus on the work instead of fighting your tools.
 
