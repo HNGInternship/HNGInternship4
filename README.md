@@ -198,7 +198,7 @@ You will need the following:
 ---
 ## Stage 2 (Learning Collaborative Coding.):
 
-To pass stage 1,
+To pass stage 2,
 1. Create a Github Account (If you dont already have one)
 2. Create a new Repository (Use any name)
 3. Push your HTML Page from Stage 1 Task to the new Repository
