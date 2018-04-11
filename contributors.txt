@@ -16,7 +16,6 @@
 16. Edidiong Asikpo @Didicodes
 17. Victor Alagwu @Victor
 18. Tejumola David Timi @timi
-19. Anthony Okpako @MacAnthony
 19. Ayeko Ayobamidele@ayobamidele
 20. Osumgba Chiamaka @Pearl
 21. Miracle Joseph	@tiarayuppy
@@ -190,9 +189,6 @@
 189. Bifarin Alayonimi @Beef
 190. Tobalase Akinyemi @tobalase
 191. Umar Yusuf
-<<<<<<< HEAD
-
-
 192. Ayandokun Elijah Oloruntobi @Elijah
 193. Esan John Ehikwe
 194. Weke Samuel Olusegun @samuel
@@ -204,3 +200,4 @@
 197. Nelson Bassey @nellybaz10
 198. Sunkanmi Ijatuyi @Sunkanmi
 199. Arikan Udoka @arikan.u
+200. Anthony Okpako @MacAnthony
