@@ -103,8 +103,6 @@
 103. Osawaru Efe-osa @osawaru
 104. Michael Ozoemena
 105. Oladele Joshua @jurshsmith
-<<<<<<< HEAD
 106. Iribiri Mary Onome @Fumike
-=======
 107. Idakwoji Theophilus @txheo
->>>>>>> e40850bb982462fe87f9e056d0a4c6061bf5e4b4
+108. Eniwoke Precious Cornelius @eniwoke
