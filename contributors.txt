@@ -176,9 +176,7 @@
 155. Aina Tolulope Afolabi
 156. Marcos mwake muasa
 157. Ismail Jamiu Babatunde @ phantware
-<<<<<<< HEAD
 158. Deekor Baribefe @befe
-=======
 158. Oni Gbenga @gbxnga
 159. Adeyemo Adeolu Sunday @adex9ja
 160. Anthony Oyathelemhi
@@ -290,3 +288,4 @@
 210. Butu Ordooter @ordooter
 211. Awajiowa Ibotile @ibotyle
 212. Atanda Aminat Oluchi @Oluchi
+213. Mbah Clinton @mclintprojects
