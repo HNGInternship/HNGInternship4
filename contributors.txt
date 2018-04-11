@@ -189,9 +189,7 @@
 189. Bifarin Alayonimi @Beef
 190. Tobalase Akinyemi @tobalase
 191. Umar Yusuf
-<<<<<<< HEAD
-=======
+192. Ayandokun Elijah Oloruntobi @Elijah
 193. Esan John Ehikwe
->>>>>>> 199fb999b67c5edc926dfe7977e67cff7fafd32f
-194. Weke Samuel @samuel
+194. Weke Samuel Olusegun @samuel
 
