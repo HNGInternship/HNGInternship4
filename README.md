@@ -1,4 +1,4 @@
-# Hotel.NG Intership 4
+# Hotel.NG Internship 4
 
 
 
@@ -14,7 +14,7 @@ Table of Contents
 
 ---
 ## Introduction
- Please invite others who are interested in learning to code. Use this link: [Click Me!](https://join.slack.com/t/hnginternship4/shared_invite/enQtMzQwOTU4NzAwNjExLWQ0NWFlZDBmNjRkMTRkNGZmYjQ5MzA0YmUzZDBiZDEzOTBkZGE1ZWUxZTI1YjkxMTQ5N2MyZTMyMzBmMTEyOWM)
+ Please invite others who are interested in learning to code. Use this link: [Click Me!](https://bit.ly/2Jv2VNj)
 
 > Please do invite all others who may be interested in the internship
 
@@ -196,4 +196,20 @@ You will need the following:
 
 
 ---
-## Stage 2 (Learning Collaborative Coding.)
+## Stage 2 (Learning Collaborative Coding.):
+
+To pass stage 2,
+1. Create a Github Account (If you dont already have one)
+2. Create a new Repository (Use any name)
+3. Push your HTML Page from Stage 1 Task to the new Repository
+5. Post your Repository URL to #results
+
+4. Alert a Mentor to add you to the HNG 4.0 GitHub Organization
+
+5. Clone the HNG4.0 Repository
+6. Open Contributors.txt and add your name at the end. 
+7.  Commit your change
+8. Pull Repository
+9. Resolve Merge Conflict if any
+10.  Push your code.
+11. Alert a Mentor to Review.
