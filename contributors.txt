@@ -47,7 +47,7 @@
 47. Dike Precious @supardyke
 48. Afolayan David @thekinglaolu
 49. Adeegbe Oluyemi @adeegbe
-50. Ogundiji Bolade Adio 
+50. Ogundiji Bolade Adio
 51. John Olubori David @Olubori
 52. Ayo-Salami Ayobami @bamii
 53. Justice Otuya Ugochukwu @justiceotuya
@@ -185,7 +185,7 @@
 163. Vincent Williams @vincent
 164. Udim Manny @udimmanny
 165. Chisom Okoye @chisom55
-166. Imasuen Osamudiamen @pwadeveloper 
+166. Imasuen Osamudiamen @pwadeveloper
 114. Salem Nzeukwu @jim
 115. Ayebakuro Ombu @ombukuro
 116. James Christopher @Christoph
@@ -289,17 +289,7 @@
 211. Awajiowa Ibotile @ibotyle
 212. Atanda Aminat Oluchi @Oluchi
 213. Mbah Clinton @mclintprojects
-<<<<<<< HEAD
-
-=======
 214. Adenekan Esther @essietom
-<<<<<<< HEAD
->>>>>>> cad34c9f376a76ab63b21f92144045f2c5d7b8e8
-=======
 215. Jimoh Muheez @maaj
->>>>>>> 8d8451b93f775a4c22879226fca163a271d51d34
-<<<<<<< HEAD
-216. Durodola Oluwatosin @Durodolav
-=======
 216. Jesudunsin Samuel @jessam
->>>>>>> cea66ed19d65eae9936454e027152b9436030fbf
+217. Durodola Oluwatosin @Durodolav
