@@ -1,0 +1,26 @@
+body {
+   background-repeat: no-repeat;
+           background-size: cover;
+	background-image: url("Group.png");
+	
+}
+#te
+{
+	color: white;
+	margin-top: 300px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 70px; 
+	font-family: Lato;
+
+}
+ #ti
+ {
+ 	color: white;
+	margin-top:0px;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 50px; 
+	font-family: Lato;
+
+ }
