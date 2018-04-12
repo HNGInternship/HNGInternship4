@@ -300,17 +300,11 @@
 
 222. Omeiza Aliu @aliu
 223. Kehinde Olanrewaju @kaynues
-<<<<<<< HEAD
 224. Ekpang Michael Etta @weezyval93
-=======
->>>>>>> 5b7367847d9d1666ab0ebcbd94c9f47f868b7ef8
 224. Obosi Philip @worldclassdev
 225. Oru Victor Paul
 226. Adeniyi Yusuf Olasunkanmi @easy007
 227. Omosipe Busola Emmanuel
-<<<<<<< HEAD
-
-=======
 228. Aniuchi Adaobi Michelle @AdaM
 224. Ekpang Michael Etta @weezyval93
 225. Obosi Philip @worldclassdev
@@ -318,18 +312,13 @@
 227. Adeniyi Yusuf Olasunkanmi @easy007
 228. Omosipe Busola Emmanuel
 229. Ijeomah Arinze c @shine
-<<<<<<< HEAD
->>>>>>> 5b7367847d9d1666ab0ebcbd94c9f47f868b7ef8
-=======
 230. Ogungbe Olaniyi @olaniyi-ogungbe
->>>>>>> 5ec4e090ccc2e4cf8ba8e9cd6a4178912264a3d8
 231. Obomighie Sophie @sophie
 232. Ariyo Olawale @olawalle
 233.  Ilesanmi Samuel A. @dbeloveth
 234. Agatevure Glory @agatevureglory
-<<<<<<< HEAD
 235. Nonso Mgbechi @nonso
-=======
 236.Joshua Afekuro @Liveejosh
->>>>>>> fef7fa60900338947a266ef94de129502cdffdeb
 237. Iniubong Effiong Eduese @Eduese
+
+238. Linda Kalu Okorie @Lindie
