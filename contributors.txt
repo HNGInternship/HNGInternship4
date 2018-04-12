@@ -343,14 +343,6 @@
 257. Animashaun Oluwatosin @annyhiss
 258. Ogundiran Al-Ameen @ogundiran12
 259. Olunloye Akinkunmi @Roqak
-<<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
-=======
 260. Adeyefa Oluwatoba @Adeyefa
->>>>>>> 277c61c6eae640a7dfb9031958f7a957f71ab9d5
->>>>>>> 5169f373753a0f7d707889e1808ce853af292861
-
 261. Bethel Eyo @bethel_codes
 262. Akintola Moronfoluwa @Foluwa
