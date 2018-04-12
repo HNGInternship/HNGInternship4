@@ -294,14 +294,7 @@
 216. Jesudunsin Samuel @jessam
 217. Durodola Oluwatosin @Durodolav
 218. Joshua Afekuro @Liveejosh
-<<<<<<< 81228d2c7fc8c259af28804535925110988099e4
 219. Ijeomah Arinze c @shine
 220. Ekpang Michael Etta @weezyval93
 220. Ogungbe Olaniyi @olaniyi-ogungbe
-
-=======
-219. Ijeomah Arinze C @shine
-220. Ekpang Michael Etta @weezyval93
-219. Ijeomah Arinze C @shine
-220. Ogungbe Olaniyi @olaniyi-ogungbe
->>>>>>> remodifed name
+221. Bukola Bisuga @Bukola
