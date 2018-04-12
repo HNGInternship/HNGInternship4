@@ -297,6 +297,7 @@
 219. Peter Onisha Peregbakumo
 220. Somiari Lucky Godwin @somiari
 221. Samuel Egahi Okwori @Egahi
+
 222. Omeiza Aliu @aliu
 223. Kehinde Olanrewaju @kaynues
 <<<<<<< HEAD
@@ -322,4 +323,5 @@
 =======
 230. Ogungbe Olaniyi @olaniyi-ogungbe
 >>>>>>> 5ec4e090ccc2e4cf8ba8e9cd6a4178912264a3d8
-231. Obomighie Sophie @sophie
+231. Obomighie Sophie @sophOlawale
+232. Ariyo Olawale @olawalle
