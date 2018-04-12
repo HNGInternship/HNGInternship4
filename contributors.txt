@@ -316,8 +316,6 @@
 232. Ariyo Olawale @olawalle
 233.  Ilesanmi Samuel A. @dbeloveth
 234. Agatevure Glory @agatevureglory
-<<<<<<< HEAD
-<<<<<<< HEAD
 235. Nonso Mgbechi @nonso
 236.Joshua Afekuro @Liveejosh
 237. Linda Kalu Okorie @Lindie
@@ -339,9 +337,9 @@
 251.Joshua Afekuro @Liveejosh
 252. Linda Kalu Okorie @Lindie
 253. okunniga tosin @teegoldz
-240. Andikan Bassey @andikanbassey
-241. Iniubong Effiong Eduese @Eduese
-242. Mustapha Abdulrasaq @geekmaros
-243. Animashaun Oluwatosin @annyhiss
-244. Ogundiran Al-Ameen @ogundiran12
+254. Andikan Bassey @andikanbassey
+255. Iniubong Effiong Eduese @Eduese
+256. Mustapha Abdulrasaq @geekmaros
+257. Animashaun Oluwatosin @annyhiss
+258. Ogundiran Al-Ameen @ogundiran12
 
