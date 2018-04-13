@@ -1,0 +1,26 @@
+html{
+  background-color: black;
+}
+
+.white{
+  height: 550px;
+  width: 960px;
+  margin-top: 200px;
+  margin-left: 350px;
+  background-color: #FCC08B;
+  border-radius: 1px solid 75%;
+  border: 1px solid white;
+}
+
+.time{
+  font-size: 4em;
+  color: #2D9CDB;
+  margin-left: 400px;
+
+}
+.date{
+  font-size: 4em;
+  color: #6FCF97;
+  margin-top: 100px;
+  margin-left: 285px;
+}
