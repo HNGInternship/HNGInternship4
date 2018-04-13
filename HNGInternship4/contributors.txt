@@ -293,8 +293,6 @@
 215. Jimoh Muheez @maaj
 216. Jesudunsin Samuel @jessam
 217. Durodola Oluwatosin @Durodolav
-<<<<<<< HEAD
-<<<<<<< HEAD
 218. Thomas Lois Vaku
 219. Peter Onisha Peregbakumo
 220. Somiari Lucky Godwin @somiari
@@ -399,26 +397,4 @@
 312. George Jacob T @JayVynch
 313. Abraham Enyo-one Musa @Abseejp
 314. Alaba Mustapha @alabamustapha
-
-=======
-218. Joshua Afekuro @Liveejosh
-219. Ijeomah Arinze c @shine
-220. Ekpang Michael Etta @weezyval93
-220. Ogungbe Olaniyi @olaniyi-ogungbe
-219. Ijeomah Arinze C @shine
-220. Ekpang Michael Etta @weezyval93
-219. Ijeomah Arinze C @shine
-220. Ogungbe Olaniyi @olaniyi-ogungbe
-221.  Ilesanmi Samuel A. @dbeloveth
-222. Bukola Bisuga @Bukola
-223. Agatevure Glory @agatevureglory
-224. Ogedengbe Samuel @dprogrammed
-225. Aniuchi Adaobi Michelle @AdaM
-226. Obasi Uchechukwu @obate
-227. Opara Prosper @opara prosper
-227. Olaogun James @Olaogun James
-228. George Jacob T @JayVynch
-229. Abraham Enyo-one Musa @Abseejp
-230. Alaba Mustapha @alabamustapha
-231. Awonusi Olajide @jaido12
->>>>>>> c5b457ebb29a6b437c05570a9f28eeefc850df8e
+315. Awonusi Olajide @jaido12
