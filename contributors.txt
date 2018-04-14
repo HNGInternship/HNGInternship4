@@ -426,11 +426,17 @@
 327. Amah Gift @codedgift
 328.Itafor Francis Clement @frank
 329. Fadeni Ayoola @olar
+<<<<<<< HEAD
 
 
 329. Hamidu Abu	@Hamidu
 <<<<<<< HEAD
-331. Stanley Okonkwo @Chemicalstan
 =======
+=======
+330. Hamidu Abu	@Hamidu
+331. Ayowole Adenuga @ayowoleadenuga
+>>>>>>> 5450e383ed0d68801c7e25f38523020f0c2136ff
 >>>>>>> 47c91b82661c28a0c7d22d6a7899a45f6343e6f3
 >>>>>>> db3eb2bea01d44e761db43357cc0d1826f5012a3
+
+338. Stanley Okonkwo @Chemicalstan
