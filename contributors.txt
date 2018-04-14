@@ -414,19 +414,23 @@
 318. Bamidele Emmanuel Segun @segunemma2003
 319. Elekwa Solomon Uche @JEDiTech
 320. Mbanusi Ikenna @incofab
-<<<<<<< HEAD
 321. Olulode Olatunbosun @horlathunbhosun
 =======
 321. Ogbe Larry @larry
->>>>>>> 9ddb712a8f56446bd61deb7a30ef9dcdaa092f25
+
 323. Aji David Enoch @Ajiva
 324. Ilesanmi Temitope Amos @itope84
 325. Fabusuyi Ayodeji @null
 326. Eleojo Emmanuel @elepsis
-<<<<<<< HEAD
-=======
+
 327. Amah Gift @codedgift
 328.Itafor Francis Clement @frank
->>>>>>> 2f4b5961cdf26825d51071186fc68713d01fc0ae
+329. Fadeni Ayoola @olar
+
+
 329. Hamidu Abu	@Hamidu
-330. Stanley Okonkwo @Chemicalstan
+<<<<<<< HEAD
+331. Stanley Okonkwo @Chemicalstan
+=======
+>>>>>>> 47c91b82661c28a0c7d22d6a7899a45f6343e6f3
+>>>>>>> db3eb2bea01d44e761db43357cc0d1826f5012a3
