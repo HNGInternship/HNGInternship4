@@ -484,9 +484,6 @@ Abraham Enyo-one Musa @Abseejp
 353. Olusola Ifeoluwasimi @ife
 354. Mendie Noah Linus @spywave
 355. Idowu Ayodele Rukayat @Ruqayyyah
-<<<<<<< HEAD
-
-=======
 356. Adamu Abubakar @adamucodes
 357. Jeremiah Babasanmi @gbomaya
 358. Ubong Udotai @AndreUdotai
@@ -502,12 +499,7 @@ Abraham Enyo-one Musa @Abseejp
 368. Salaudeen Habeeb @Habeeb
 369. Oluwatobi Adeoye @otobiadeoye
 370. Pepple Sunny Lysias @pepps01
-<<<<<<< HEAD
-
->>>>>>> 6ed094b980082353853e3b47882e65db4d24974f
-=======
 371. Cho Kingsley Che @kingsley67
 372. Oluwaseyi Oluwapelumi @Eniayomi
 373. Edogbo Sunny @javian
 
->>>>>>> 2bc277fbe00f9d5cba78044708a93b02eb2aa7a2
