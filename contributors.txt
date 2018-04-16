@@ -503,13 +503,10 @@ Abraham Enyo-one Musa @Abseejp
 372. Oluwaseyi Oluwapelumi @Eniayomi
 373. Edogbo Sunny @javian
 374. Victor Peter @Victormfreke
-<<<<<<< HEAD
-375. Ajah Nnamdi
 376. Anele Amarachi Tracy @tracie96
 377. Abolarin Olanrewaju Olabode
 378. Ali Tochukwu @tochi
 379. Obed Omwenga @Omwenga
-=======
 375. Ajah Nnamdi @ajudges
 376. Anele Amarachi Tracy @tracie96
 377. Abolarin Olanrewaju Olabode
@@ -1021,8 +1018,7 @@ Abraham Enyo-one Musa @Abseejp
 526. Kori Samuel @kori
 526. Oluwatosin Oluwole @kayla
 527. Onwughalu Ifunanya @kreativejosh
-528. Adesanya Daniel @Adac
-529. John Ugbor @johnugbor
+528. Adesanya Daniel @adac
 529. John Ugbor @johnugbor
 530. Akunne S Obinna @thirdwrist
 531. Zubairu Musa @Zubair
