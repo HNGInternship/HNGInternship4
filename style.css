@@ -1,0 +1,53 @@
+
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body{
+ background-color:#E5E5E5;
+}
+
+/* A4 */
+ .container{
+position: relative;
+margin-top: 40px;
+width: 700px;
+height: 400px;
+margin-left: 300px;
+padding-right: 50px;
+background: #132B38;
+ }
+
+/* HNG INTERNSHIP 4 #STAGE1 CHALLENGE DESIGNED BY FRANK */
+ .container .title{
+position: absolute;
+width: 591.1px;
+height: 73.11px;
+left: 110px;
+top: 79.22px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+line-height: normal;
+font-size: 25px;
+text-align: center;
+
+color: #F2F2F2;
+ }
+
+/* Rectangle */
+ .container .time{ 
+ padding-top: 40px;
+ padding-left: 30px;
+position: absolute;
+width: 200px;
+height: 60px;
+left: 250px;
+top: 200px;  
+font-size: 20px;
+color: black;
+background: #828282;
+ }
