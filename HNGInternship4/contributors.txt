@@ -22,6 +22,7 @@
 22. Godswill Effiong Okokon @OG
 23. Okon Emmanuel @okon
 24. Ogbor Margaret Ene @kiwi
+25. Idemeto Emediong @binary
 25. Olayinka Raheem @Olayinka Raheem
 26. Ekpono Joseph Ambrose @ekpono
 27. Eleng, Efa-Iwa @sage001
@@ -128,7 +129,7 @@
 126. Seun Agbeye @SEUNAGBEYE
 127. Adebisi Oluwabukunmi Joseph
 128. ThankGod Egbo @Tha Truth
-129. Alexandrix Ikechukwu @SpaghettiThots
+129. Alexandrix Ikechukwu @spaghettithots
 130. Idakwoji Theophilus @txheo
 131. Ibrahim Isa @ibrahimisad8
 132. Adeteju Adeleye @adeteju
@@ -171,10 +172,6 @@
 150. Ikhuohon-Eboreime Caleb @calebikhuohon
 151. Onu Aaron Kelvin @KelvinnIce
 152. Rachel Abaniwo @RachelAbaniwo
-153. Soyombo Oluwadamilola Oluwaseun @iam__dharmy
-154. Tirsing Dernan Doarcas @Gazelle007
-155. Aina Tolulope Afolabi
-156. Marcos mwake muasa
 157. Ismail Jamiu Babatunde @ phantware
 158. Deekor Baribefe @befe
 158. Oni Gbenga @gbxnga
@@ -189,24 +186,6 @@
 114. Salem Nzeukwu @jim
 115. Ayebakuro Ombu @ombukuro
 116. James Christopher @Christoph
-117. Osagie Eloghosa @Elozzy
-118. Bassey Kingsley @amnesia
-119. Seun Agbeye @SEUNAGBEYE
-120. Adebisi Oluwabukunmi Joseph
-121. ThankGod Egbo @Tha Truth
-122. Alexandrix Ikechukwu @SpaghettiThots
-123. Marcos mwake muasa
-124. Adeteju Adeleye @adeteju
-125. Mohammed Sanusi @Mohammed Sanusi
-126. Osagie Eloghosa @Elozzy
-127. Bassey Kingsley @amnesia
-128. Seun Agbeye @SEUNAGBEYE
-129. Adebisi Oluwabukunmi Joseph
-130. ThankGod Egbo @Tha Truth
-131. Alexandrix Ikechukwu @SpaghettiThots
-132. Idakwoji Theophilus @txheo
-133. Ibrahim Isa @ibrahimisad8
-134. Adeteju Adeleye @adeteju
 135. Abubakar Sambo @Sadiq
 136. Victor Victor Jonah @vectormike40
 137. Ayelegun Kayode Michael
@@ -231,27 +210,6 @@
 156. Soyombo Oluwadamilola Oluwaseun @iam__dharmy
 157. Tirsing Dernan Doarcas @Gazelle007
 158. Aina Tolulope Afolabi
-159. Marcos mwake muasa
-160. Mercy Michael Ikpe    @mercikpe
-161. Mani Kumar Reddy Kancharla @YemKay
-162. Mohammed Sanusi @Mohammed Sanusi
-163. Osagie Eloghosa @Elozzy
-164. Bassey Kingsley @amnesia
-165. Seun Agbeye @SEUNAGBEYE
-166. ThankGod Egbo @Tha Truth
-167. Alexandrix Ikechukwu @SpaghettiThots
-168. Idakwoji Theophilus @txheo
-169. Ibrahim Isa @ibrahimisad8
-170. Adeteju Adeleye @adeteju
-171. Ikhuohon-Eboreime Caleb @calebikhuohon
-172. Onu Aaron Kelvin @KelvinnIce
-173. Rachel Abaniwo @RachelAbaniwo
-174. Soyombo Oluwadamilola Oluwaseun @iam__dharmy
-175. Tirsing Dernan Doarcas @Gazelle007
-176. Aina Tolulope Afolabi
-177. Marcos mwake muasa
-178. Ismail Jamiu Babatunde @ phantware
-179. Oni Gbenga @gbxnga
 180. Adeyemo Adeolu Sunday @adex9ja
 182. Anthony Oyathelemhi
 182. Faith Uhie @Fayoung
@@ -264,9 +222,6 @@
 189. Bifarin Alayonimi @Beef
 190. Tobalase Akinyemi @tobalase
 191. Umar Yusuf
-192. Ayandokun Elijah Oloruntobi @Elijah
-193. Esan John Ehikwe
-194. Weke Samuel Olusegun @samuel
 192. Ayandokun Elijah Oloruntobi @Elijah
 193. Esan John Ehikwe
 194. Weke Samuel Olusegun @samuel
@@ -309,6 +264,84 @@
 225. Obosi Philip @worldclassdev
 226. Oru Victor Paul
 227. Adeniyi Yusuf Olasunkanmi @easy007
+230. Ijeomah Arinze c @shine
+231. Ogungbe Olaniyi @olaniyi-ogungbe
+232. Obomighie Sophie @sophie
+233. Ariyo Olawale @olawalle
+234. Ilesanmi Samuel A. @dbeloveth
+235. Agatevure Glory @agatevureglory
+236. Nonso Mgbechi @nonso
+237. Joshua Afekuro @Liveejosh
+238. Linda Kalu Okorie @Lindie
+239. okunniga tosin @teegoldz
+240. John Odey @john
+241. Agatevure Glory @agatevureglory
+242. Nonso Mgbechi @nonso
+243. Joshua Afekuro @Liveejosh
+244. Linda Kalu Okorie @Lindie
+245. okunniga tosin @teegoldz
+246. Andikan Bassey @andikanbassey
+247. Iniubong Effiong Eduese @Eduese
+248. Everistus Olumese @bytenaija
+249. Mustapha Abdulrasaq @geekmaros
+250. Agatevure Glory @agatevureglory
+251. Nonso Mgbechi @nonso
+252. Animashaun Oluwatosin @annyhiss
+253. Ogundiran Al-Ameen @ogundiran12
+254. Olunloye Akinkunmi @Roqak
+255. Adeyefa Oluwatoba @Adeyefa
+256. Bethel Eyo @bethel_codes
+257. Akintola Moronfoluwa @Foluwa
+258. Obasi Uchechukwu @obate
+259. Akinyelue Akinsulire @akinsource
+260. Andy Eshiet @mathemandy
+261. Ayinde Uthman Eyitayo @uuthman
+262. Samson Samuels @sammieneutron
+263. Steven Victor @Steven
+264. Akas John Ebuka @akasmindset
+265. Adeogun Oluwaseyi Samuel @Oluwaseyi
+266. Nelson Atuonwu Nelson @blvckcoder
+267. Anumadu Udodiri Moses @alloyking1
+268. Ofili Paul Onyedikachi @PaulOfili
+269. Uforo Ibenge @ben-j
+270. Jeremiah Righteous @jeremiahriz
+271. Opara Prosper @opara prosper
+272. ibibo seleye-fubara @ibdaye
+273. Yusuf Samaila @ysdhilside
+274. Chima Ekeneme Sebastine @sebaztyn
+275. Uzochukwu Valentine Obinna @Valentine
+276. Bakare Emmanuel Oluwatimilehin @Tiemma
+277. Olaogun James @Olaogun James
+278. Adeboye Sarah @sarah
+279. Promise Orung @orung
+280. Abraham Enyo-one Musa @Abseejp
+281. Nse-Abasi Joseph Etim @nseetim
+282. Angela Bello @angela
+283. catherine jonathan @kateberry
+284. Peter Amugen @Payne
+285. Oganji Ernest Paul @epospiky
+286. Michael Sarpong @Michael
+287. Awonusi Olajide @jaido12
+288. Funsho Olaniyi @funsholaniyi
+289. Adebiyi David @codetillamgone
+290. Jeremiah Kaduma @Rico
+291. Oyelami Samuel Oluwatobiloba @tobioye88
+292. Victor Ewere @vewere
+293. Bolajoko Oluwatobi Abraham @Toby
+294. Stephen Moses Inalague @webguardian
+295. Kudakwashe Siziva
+296. Dike Thelma Kelechi @dikethelmak
+297. Peculiar Ediomo-Abasi @peculiar
+298. George Ekanem Udosen @udoyen
+299. Peculiar Ediomo-Abasi @peculiar
+301. Ndinefo Joseph Onyebuchi @joseph
+302. OGUNLOWO JOSEPH @Josephogunlowo1
+303. Shafi Abdulrahman Ololade @AvatechNG
+304. Sunday Ndu @Nectar
+305. Gad Jacobs @coder-black
+306. Ibitoye Oluwafemi Zion @rock_zion
+307. Otuseso Tosin @Tosin
+308. OYEWO Ayooluwa @oyewoas
 228. Omosipe Busola Emmanuel
 229. Ijeomah Arinze c @shine
 230. Ogungbe Olaniyi @olaniyi-ogungbe
@@ -336,6 +369,7 @@
 251.Joshua Afekuro @Liveejosh
 252. Linda Kalu Okorie @Lindie
 253. okunniga tosin @teegoldz
+33253. okunniga tosin @teegoldz
 254. Andikan Bassey @andikanbassey
 255. Iniubong Effiong Eduese @Eduese
 256. Mustapha Abdulrasaq @geekmaros
@@ -362,53 +396,128 @@
 277. ibibo seleye-fubara @ibdaye
 278. Yusuf Samaila @ysdhilside
 279. Chima Ekeneme Sebastine @sebaztyn
-280. Iyadi Cyril Osita @Iyadi Cyril
-281. Joshua Afekuro @Liveejosh
-282. Ijeomah Arinze c @shine
-283. Ekpang Michael Etta @weezyval93
-284. Ogungbe Olaniyi @olaniyi-ogungbe
-285. Ijeomah Arinze C @shine
-286. Ekpang Michael Etta @weezyval93
-287. Ijeomah Arinze C @shine
-288. Ogungbe Olaniyi @olaniyi-ogungbe
-289.  Ilesanmi Samuel A. @dbeloveth
-290. Bukola Bisuga @Bukola
-291. Agatevure Glory @agatevureglory
-292. Ogedengbe Samuel
-293. Aniuchi Adaobi Michelle @AdaM
-294. Obasi Uchechukwu @obate
-295. Opara Prosper @opara prosper
-296. Joshua Afekuro @Liveejosh
-297. Ijeomah Arinze c @shine
-298. Ekpang Michael Etta @weezyval93
-299. Ogungbe Olaniyi @olaniyi-ogungbe
-300. Ijeomah Arinze C @shine
-301. Ekpang Michael Etta @weezyval93
-302. Ijeomah Arinze C @shine
-303. Ogungbe Olaniyi @olaniyi-ogungbe
-304.  Ilesanmi Samuel A. @dbeloveth
-305. Bukola Bisuga @Bukola
-306. Agatevure Glory @agatevureglory
-307. Ogedengbe Samuel @dprogrammed
-308. Aniuchi Adaobi Michelle @AdaM
-309. Obasi Uchechukwu @obate
-310. Opara Prosper @opara prosper
-311. Olaogun James @Olaogun James
-312. George Jacob T @JayVynch
-313. Abraham Enyo-one Musa @Abseejp
-314. Alaba Mustapha @alabamustapha
-315. Awonusi Olajide @jaido12
-316. Bolajoko Oluwatobi Abraham @Toby
-317. Jeremiah Kaduma @Rico
-318. Otuseso Tosin @Tosin
-319. Gad Jacobs @coder-black
-320. OYEWO Ayooluwa @oyewoas
-321. Godwin Okoi @Gordie
-322. Ikemefuna Esther Chisom @Esther
-323. Caleb Amolo @amolocaleb
-324. Damilare Emmanuel @netEmmanuel
-325. Owodunni Sulaiman Bolaji @Sulaayman
-326. Olulode Olatunbosun @horlathunbhosun
-326. Adebiyi David @codetillamgone 
-327. Bamidele Emmanuel Segun @segunemma2003
-328. Fabusuyi Ayodeji @null
+280. Uzochukwu Valentine Obinna @Valentine
+281. Bakare Emmanuel Oluwatimilehin @Tiemma
+282. Olaogun James @Olaogun James
+283. Adeboye Sarah @sarah
+284. Promise Orung @orung
+Abraham Enyo-one Musa @Abseejp
+285. Nse-Abasi Joseph Etim @nseetim
+286. Angela Bello @angela
+287. catherine jonathan @kateberry
+288. Peter Amugen @Payne
+289. Oganji Ernest Paul @epospiky
+289. Oganji Ernest P @epospiky
+290. Michael Sarpong @Michael
+291. Awonusi Olajide @jaido12
+292. Funsho Olaniyi @funsholaniyi
+293. Adebiyi David @codetillamgone
+294. Jeremiah Kaduma @Rico
+295. Oyelami Samuel Oluwatobiloba @tobioye88
+296. Victor Ewere @vewere
+296. Bolajoko Oluwatobi Abraham @Toby
+297. Stephen Moses Inalague @webguardian
+298. Kudakwashe Siziva
+295. Otuseso Tosin @Tosin
+295. Oyelami Samuel Oluwatobiloba @tobioye88
+296. Bolajoko Oluwatobi Abraham @Toby
+
+296. Victor Ewere @vewere
+297. Stephen Moses Inalague @webguardian
+298. Kudakwashe Siziva
+290. Peculiar Ediomo-Abasi @peculiar
+291. George Ekanem Udosen @udoyen
+292. Ndinefo Joseph Onyebuchi @joseph
+299. Dike Thelma Kelechi @dikethelmak
+300. Peculiar Ediomo-Abasi @peculiar
+301. George Ekanem Udosen @udoyen
+302. Peculiar Ediomo-Abasi @peculiar
+303. George Ekanem Udosen @udoyen
+304. Ndinefo Joseph Onyebuchi @joseph
+305. OGUNLOWO JOSEPH @Josephogunlowo1
+306. Shafi Abdulrahman Ololade @AvatechNG
+307. Sunday Ndu @Nectar
+308. Gad Jacobs @coder-black
+309. OYEWO Ayooluwa @oyewoas
+310. Abraham Enyo-one Musa @Abseejp
+311. Godwin Okoi @Gordie
+312. Caleb Amolo @amolocaleb
+313. Damilare Emmanuel @netEmmanuel
+314. George Jacob T @JayVynch
+315. Obikoya Ibiniyi Emmanuel @megastar
+316. Idemeto Emediong @binary
+317. Akan Williams @akan
+318. Bamidele Emmanuel Segun @segunemma2003
+319. Elekwa Solomon Uche @JEDiTech
+320. Mbanusi Ikenna @incofab
+321. Olulode Olatunbosun @horlathunbhosun
+321. Ogbe Larry @larry
+323. Aji David Enoch @Ajiva
+324. Ilesanmi Temitope Amos @itope84
+325. Fabusuyi Ayodeji @null
+326. Eleojo Emmanuel @elepsis
+327. Amah Gift @codedgift
+328.Itafor Francis Clement @frank
+329. Fadeni Ayoola @olar
+330. Hamidu Abu	@Hamidu
+331. Ayowole Adenuga @ayowoleadenuga
+333. Abdullahi Mohammed Yelwa
+334. Arthur Ezenwanne @ArthurEzenwanne
+335. Idowu Damilola @idamilola52
+336. Ajetunmobi Michael @mikoloxtra
+337. Udoh Faith Edima @r3dmau5
+338. Promise Boniface @promise
+339. Akinduko Olugbenga @dev_gb
+340. Kingsley Atanang @kingo4luv
+341. Adegoke Daniel @godfadatun
+342. Afolayan Stephen @jilh
+343. Hammed Busirah Olaitan @hammedb
+344. Chukwudi Chidiebere @chidiebere
+345. Izebhor Shalom @Shalom
+346. Balogun Ridwan @ridbay
+347. Tovieye Moses Ozi @Tovieye Moses Ozi
+348. Sule Olanrewaju Ganiu @larry
+349. Adanlawo Praise @praiz
+350. Ifeanyi Okoye @Hanyi
+351. Cosmas Udom @cosmas
+352. Onwughara Kelechi Collins @KCollins
+353. Olusola Ifeoluwasimi @ife
+354. Mendie Noah Linus @spywave
+355. Idowu Ayodele Rukayat @Ruqayyyah
+356. Adamu Abubakar @adamucodes
+357. Jeremiah Babasanmi @gbomaya
+358. Ubong Udotai @AndreUdotai
+359. Ifunanya Okolie @alien
+360. Iruene Adokiye @Adokiye
+361. Oluwalolope Hope @ebonyhope
+362. Isaac Miti @knight
+363. Sanusi Mubaraq @Matrix
+364. Rex Ben @Rexben
+365. Nedu Robert @nedu
+366. Olaitan Ibrahim @Lere
+367. Bright Robert @Admiral
+368. Salaudeen Habeeb @Habeeb
+369. Oluwatobi Adeoye @otobiadeoye
+370. Pepple Sunny Lysias @pepps01
+371. Cho Kingsley  @kingsley67
+372. Oluwaseyi Oluwapelumi @Eniayomi
+373. Edogbo Sunny @javian
+374. Victor Peter @Victormfreke
+375. Ajah Nnamdi @ajudges
+376. Anele Amarachi Tracy @tracie96
+377. Abolarin Olanrewaju Olabode
+378. Ali Tochukwu @tochi
+379. Idara Nse EKPO @Eyedoll
+380. Odion Paul Okoduwa @paulcode
+381. James John James @jaycodes 
+382. Saeed Abdul-Wahab @legend
+383. Emmanuel Nwabueze @nuel
+384. Onifade Olawale Michael
+385. Olatunji Abayomi @Abayomi
+385. Olatunji Abayomi @Abayomi
+386. Mbadugha Ndubueze Charles
+387. Zubairu Musa @Zubair
+388. Nzeako Kosisochukwu Anthony @kosi
+389. Oluwaseun Jubril Bello @Bellom
+390. Olowoyeye Oluwafemi Titus @WaTeR
+391. Onwubiko Chibuike Uzoma @prince curie
