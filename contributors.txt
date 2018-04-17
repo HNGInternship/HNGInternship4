@@ -984,7 +984,7 @@ Abraham Enyo-one Musa @Abseejp
 492. Oluwalolope Hope @ebonyhope
 493. Isaac Miti @knight
 494. Sanusi Mubaraq @Matrix
-495. Rex Ben @Rexben
+5495. Rex Ben @Rexben
 496. Nedu Robert @nedu
 497. Olaitan Ibrahim @Lere
 498. Bright Robert @Admiral
@@ -1052,3 +1052,4 @@ Abraham Enyo-one Musa @Abseejp
 568. Adekoya Samuel Olayiwola@royce
 569. Onwubiko Chibuike Uzoma @prince curie
 570. Nnamdi Johnson Akunna @Jconzy
+571. Ariyo Toluwaleke @lexmill
