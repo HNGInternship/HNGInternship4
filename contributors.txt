@@ -1014,11 +1014,8 @@ Abraham Enyo-one Musa @Abseejp
 526. Kori Samuel @kori
 526. Oluwatosin Oluwole @kayla
 527. Onwughalu Ifunanya @kreativejosh
-528. Zubairu Musa @Zubair
-=======
 528. Adesanya Daniel @Adac
-<<<<<<< HEAD
->>>>>>> bedd82f6f7721e9e7e712cc11a681560bf84b1ec
-=======
 529. John Ugbor @johnugbor
->>>>>>> 9821b12b120bc1505724533e19a492e741554265
+529. John Ugbor @johnugbor
+530. Akunne S Obinna @thirdwrist
+531. Zubairu Musa @Zubair
