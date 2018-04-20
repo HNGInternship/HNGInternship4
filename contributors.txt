@@ -37,7 +37,7 @@
 36. Cyril Ofem Uket @syziddy65
 37. Nwanozie Promise @iotstudent
 38. Ekwunife Winifred @winnie_fred
-39. Ameh Samuel @pr0p3rsAm 
+39. Ameh Samuel @pr0p3rsAm
 40. Akanbi Tunde Lawal @Techieman
 41. Oseni Luthfulahi Olaitan @luteeph01
 42. Adeboga Abigail Oluwafadeji @Abigail
@@ -1089,7 +1089,7 @@ Abraham Enyo-one Musa @Abseejp
 605. Ehiabhi Osemudiamen Harvey @Osaz Eyyh
 606. Ajayi Oluwafemi Adeyinka @Femithz
 607. Andikan Affiah @_codes
-608. Okorie Chukwudi @Chukwudi 
+608. Okorie Chukwudi @Chukwudi
 609. Aisha Amoka @aisha
 610. Ayodele Olanitori @Ayo
 611. Barisere Jonathan @Jonathanks
@@ -1135,7 +1135,7 @@ Abraham Enyo-one Musa @Abseejp
 37. Cyril Ofem Uket @syziddy65
 38. Nwanozie Promise @iotstudent
 39. Ekwunife Winifred @winnie_fred
-40. Ameh Samuel @pr0p3rsAm 
+40. Ameh Samuel @pr0p3rsAm
 41. Akanbi Tunde Lawal @Techieman
 42. Oseni Luthfulahi Olaitan @luteeph01
 43. Adeboga Abigail Oluwafadeji @Abigail
@@ -2187,11 +2187,11 @@ Abraham Enyo-one Musa @Abseejp
 1089. Ehiabhi Osemudiamen Harvey @Osaz Eyyh
 1090. Ajayi Oluwafemi Adeyinka @Femithz
 1091. Andikan Affiah @_codes
-1092. Okorie Chukwudi @Chukwudi 
+1092. Okorie Chukwudi @Chukwudi
 1093. Aisha Amoka @aisha
 1094. Ayodele Olanitori @Ayo
 1095. Barisere Jonathan @Jonathanks
 1096. Esther Ekereuke @nene
  1097. Lawal Mariam Yetunde @Maerryham
 1097. ukoh kelly @ukoh
-
+1098. Kelvin Gobo
