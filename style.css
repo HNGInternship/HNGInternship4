@@ -1,0 +1,13 @@
+body{
+    background-image: url("image_1.jpeg");
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1000%;
+    text-align: center;
+    color:whitesmoke;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50%;
+    text-align: center;
+    color:wheat;
+}
