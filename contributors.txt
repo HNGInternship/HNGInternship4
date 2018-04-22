@@ -1111,7 +1111,15 @@
 1110. Egbuiwe Chukwuka @chuka99
 1111. Akinsanya Adeoluwa @tridax
 1112. Ajayi Olohireme Omoefe @Reme
+<<<<<<< HEAD
 1113. Taghreed Mohammed Kamel @Taghreedaa
 1114. okoroafor christian @okoro chris
 1115. Patsoks Patsoks @Patsoks
 1116. Iwuala Princewill @Perkyprince
+=======
+1113. Ajayi Oluwasegun @sakarious
+1114. Taghreed Mohammed Kamel @Taghreedaa
+1115. okoroafor christian @okoro chris
+1116. Patsoks Patsoks @Patsoks
+1117. Gabriel Adewumi @codergab
+>>>>>>> a232d74fbdb3c3bee091d08af16a7d15e1511e14
