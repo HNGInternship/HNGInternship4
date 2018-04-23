@@ -25,7 +25,7 @@
 25. Idemeto Emediong @binary
 26. Olayinka Raheem @Olayinka Raheem
 27. Ekpono Joseph Ambrose @ekpono
-28. Eleng, Efa-Iwa @sage001c
+28. Eleng, Efa-Iwa @sage001
 29. Peter Amugen @Payne
 30. Bakwenye Chiedu Emmanuel @nedu
 31. Ojoawo Solomon Oluwakayode @kaykluz
@@ -1105,6 +1105,7 @@
 1104. Umar Adamu @umar
 1105. Briggs Alabo David @alabobriggs
 1106. Bamidele Busola @Bamdy
+<<<<<<< HEAD
 1107. Udoakagha Inyang @Peasy
 1108. Ajibola Olayemi @AjibolaOlayemi
 1109. Charles Uko @Charles
