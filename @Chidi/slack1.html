@@ -1,0 +1,118 @@
+<html>
+<head>
+
+<script>
+function startTime() {
+    var today = new Date();
+    var h = today.getHours();
+    var m = today.getMinutes();
+    var s = today.getSeconds();
+    m = checkTime(m);
+    s = checkTime(s);
+    document.getElementById('txt').innerHTML =
+    h + ":" + m + ":" + s;
+    var t = setTimeout(startTime, 500);
+}
+function checkTime(i) {
+    if (i < 10) {i = "0" + i};  // add zero in front of numbers < 10
+    return i;
+}
+</script>
+ <style type="text/css">
+  body {background-color:black;
+        font-family:sans-serif;}
+	  
+.screen{position: relative;
+        left:600px;
+		top:50px;
+		width: 373.29px;
+        height: 600px;}
+
+.season {position: absolute;
+         width: 329.39px;
+         height: 54.79px;
+         left: 22.65px;
+         top: 46.58px;
+         background: rgba(196, 196, 196, 0.5);
+         border-radius: 27.4234px;}
+
+.time {position: absolute;
+       width: 141px;
+       height: 29px;
+       left: 116px;
+       top: 60px;
+  
+       font-style: normal;
+       font-weight: normal;
+       line-height: normal;
+       font-size: 24px;}
+	  
+.HNG {position: absolute;
+      width: 142.74px;
+      height: 37.67px;
+      left: 12.35px;
+      top: 547.95px;
+      background: rgba(196, 196, 196, 0.5);
+      border-radius: 27.4234px;}
+	  
+.fig {position: absolute;
+	  width: 132.44px;
+      height: 20.55px;
+      left: 17.16px;
+      top: 556.16px;
+	  
+	 
+      font-style: normal;
+      font-weight: normal;
+      line-height: normal;
+	  font-size:18.454px;}
+
+.son {position: absolute;
+      width: 262px;
+      height: 262px;
+      left: 56px;
+      top: 189px;
+      background: rgba(196, 196, 196, 0.5);
+	  border-radius:262px;}
+
+#txt {position: absolute;
+      width: 92px;
+      height: 39px;
+      left: 142px;
+      top: 305px;
+
+      font-style: normal;
+      font-weight: normal;
+      line-height: normal;
+      font-size: 24px;}
+
+.chidi {position: absolute;
+        width: 37px;
+        height: 15px;
+        left: 333px;
+        top: 0px;
+        font-size: 12px;
+        color: #F2F2F2;}
+ </style>
+ <title>CHIDI WEB DESIGN</title>
+</head>
+<body onload="startTime()">
+    <div class="screen">
+	
+	<img src="./img/cristian.jpg" height="600" width="374">
+	
+	<div class="chidi"><p>@Chidi</p></div>
+	
+	<div class="season"></div>
+    <div class="time">The Time Is:</div>
+	
+	<div class="son"></div>
+	
+	<div id="txt"><p></P></div>
+	
+	<div class="HNG"></div>
+    <div class="fig">HNG. Internship</div>
+	
+   </div>
+</body>
+</html>
