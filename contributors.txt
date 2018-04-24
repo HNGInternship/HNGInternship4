@@ -1148,10 +1148,8 @@
 1141. Babatunde Olatunbosun @bosman
 1142. Salami Saad @Ayinde0
 1143. Nwanya CHidimma @cognoscenti
-<<<<<<< HEAD
 1144. Ihesiulor Dan @bland
 1145. Adebowale Temitope @Temitope
-=======
-1144. Onyesom Priscillia @Priscillia
->>>>>>> 5830cbb135e11be26f5bba0062894b23477731a0
-1145. Adebowale Temitope @Temitope
+1146. Onyesom Priscillia @Priscillia
+1147. Adebowale Temitope @Temitope
+1148. Ohambele Chinonso Victor@Victor_Ohamz
