@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 1. Joseph Bassey @jonesky
 2. Aghedo Joseph Femi @femicodes
 3. Kole-Ibrahim AbdulQudus @femi_dd
@@ -419,7 +416,6 @@
 319. Elekwa Solomon Uche @JEDiTech
 320. Mbanusi Ikenna @incofab
 321. Olulode Olatunbosun @horlathunbhosun
-=======
 321. Ogbe Larry @larry
 
 323. Aji David Enoch @Ajiva
@@ -430,34 +426,15 @@
 327. Amah Gift @codedgift
 328.Itafor Francis Clement @frank
 329. Fadeni Ayoola @olar
-<<<<<<< HEAD
-
-
 329. Hamidu Abu	@Hamidu
-<<<<<<< HEAD
-=======
-=======
 330. Hamidu Abu	@Hamidu
 331. Ayowole Adenuga @ayowoleadenuga
->>>>>>> 5450e383ed0d68801c7e25f38523020f0c2136ff
->>>>>>> 47c91b82661c28a0c7d22d6a7899a45f6343e6f3
-<<<<<<< HEAD
->>>>>>> db3eb2bea01d44e761db43357cc0d1826f5012a3
-
-
-=======
 333. Abdullahi Mohammed Yelwa
 334. Arthur Ezenwanne @ArthurEzenwanne
 335. Idowu Damilola @idamilola52
 336. Ajetunmobi Michael @mikoloxtra
-<<<<<<< HEAD
->>>>>>> 9cf6cdf51044120432a7af3906cc9c6a1a9fd958
-
-=======
 337. Udoh Faith Edima @r3dmau5
->>>>>>> 1a44446c5649ed4477d7d52dd18fd753b11e84cd
 340. Stanley Okonkwo @Chemicalstan
-=======
 1. Joseph Bassey @jonesky
 2. Aghedo Joseph Femi @femicodes
 3. Kole-Ibrahim AbdulQudus @femi_dd
@@ -4872,4 +4849,6 @@ Abraham Enyo-one Musa @Abseejp
 1154. Sheba Ayosunkanmi O. @SunkanmiSheba
 1155. Igwe Ihuoma Patience. @ivorymichaels
 1156. 'Seyi Jacobs-Obalakun
->>>>>>> c7d0e90d3bc24f3852e081c7b0ec26869f0c080d
+1157. Ekenenna Ugwumba @EkenennaR
+
+
