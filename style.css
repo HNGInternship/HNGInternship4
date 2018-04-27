@@ -1,0 +1,19 @@
+body{
+               font-size: 200%;
+               background: url(bgimage.jpg);
+               background-position: center; 
+               background-size: cover;
+               background-repeat: no-repeat;
+               color:#E5E5E6;
+               height:100%;
+               }
+                   #text1{
+                       font-family: roboto;
+                       font-size:80%;
+                       color:#333333
+               }
+               #h4{
+                   font-family: roboto;
+                   color:#333333;
+                   font-size:145%;
+               }
