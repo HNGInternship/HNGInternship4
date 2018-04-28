@@ -4862,12 +4862,9 @@ Abraham Enyo-one Musa @Abseejp
 1167. Aniekan edet @ani_eedet
 1168. Ogoluwa Simon Ojewale @ogopedia
 1169. Bolaji Ayodeji @iambeejayayo
-<<<<<<< HEAD
 1170. Chiemela Adaeze @Adaeze
-
-=======
-1170. Ndueze Ifeanyi David @Code X
->>>>>>> b21e05ffe34f0c26f9ae3d749e60e6ab999821f7
-1171. Philip Obiorah @philip
-1172. Patrick Edifor @mawlee
-1173. Onilude Segun
+1171. Ndueze Ifeanyi David @Code X
+1172. Philip Obiorah @philip
+1173. Patrick Edifor @mawlee
+1174. Onilude Segun
+1175. Akinwale Yetunde @Yetunde
