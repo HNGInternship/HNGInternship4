@@ -1,20 +1,18 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
-<html>
-<head>
-
-<title>HNG Internship 4 #stage1</title>
-<link rel="stylesheet" type="text/css" href="style.css">   
-</head>
-<body>
-<div class="container" >
-    <span class="title">HNG INTERNSHIP 4 #STAGE1 CHALLENGE
-                 DESIGNED BY FRANK</span>
-    <div class="time"> 
-  <?php
-  date_default_timezone_set("Africa/Lagos");
-echo "The time is " . date("h:i:a");
-  ?>
-    </div>
-  </div>
-</body>
-</html>
+       <html lang="en-US">
+           <meta name="author" content="Bolaji Ayodeji">
+           <meta name="description" content="HTML5 CSS3">
+           <meta name="viewport" content="width=device-width, initial-scale=1">
+           <link rel="stylesheet" href="style.css">
+           
+           <body> 
+               <br />
+           <h4 id=h4> &nbsp; &nbsp; &nbsp; &nbsp; <bold> HNG INTERNSHIP 4.0 </bold> </h4>
+           <div style="color:#333333 ; text-align:left; font-size:100%";>
+           <br /> <br /> <br />
+           <h4 id="text1">Time:</h4>
+           <?php echo date("h:i:s:A") ;?>
+           <h4 id="text1">Date:</h4>
+           <?php echo date("l:F:dS:Y") ;?>
+            </div>
+           </body>
+       </html>
