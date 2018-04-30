@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 body{
     background-image: url("image_1.jpeg");
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -67,3 +68,24 @@ color: black;
 background: #828282;
  }
 >>>>>>> 8657f95cd367cf34e1ca661989c0575d778193df
+=======
+body{
+               font-size: 200%;
+               background: url(bgimage.jpg);
+               background-position: center; 
+               background-size: cover;
+               background-repeat: no-repeat;
+               color:#E5E5E6;
+               height:100%;
+               }
+                   #text1{
+                       font-family: roboto;
+                       font-size:80%;
+                       color:#333333
+               }
+               #h4{
+                   font-family: roboto;
+                   color:#333333;
+                   font-size:145%;
+               }
+>>>>>>> 948e494ec61ec58cded12c5672b28ef9fe88e66d
