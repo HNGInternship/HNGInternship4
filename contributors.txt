@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 1. Joseph Bassey @jonesky
 2. Aghedo Joseph Femi @femicodes
 3. Kole-Ibrahim AbdulQudus @femi_dd
@@ -1150,7 +1150,7 @@
 1142. Salami Saad @Ayinde0
 1143. Nwanya CHidimma @cognoscenti
 1144. Tobi Ayanwola @phil
-=======
+
 
 1. Joseph Bassey @jonesky
 2. Aghedo Joseph Femi @femicodes
@@ -2642,8 +2642,7 @@ Abraham Enyo-one Musa @Abseejp
 568. Adekoya Samuel Olayiwola@royce
 569. Onwubiko Chibuike Uzoma @prince curie
 570. Nnamdi Johnson Akunna @Jconzy
->>>>>>> b0946da42a9f6fc2b67b56a1cb92eb6060d69ab6
-=======
+
 1. Joseph Bassey @jonesky
 2. Aghedo Joseph Femi @femicodes
 3. Kole-Ibrahim AbdulQudus @femi_dd
@@ -2683,7 +2682,7 @@ Abraham Enyo-one Musa @Abseejp
 36. Cyril Ofem Uket @syziddy65
 37. Nwanozie Promise @iotstudent
 38. Ekwunife Winifred @winnie_fred
-39. Ameh Samuel @pr0p3rsAm 
+39. Ameh Samuel @pr0p3rsAm
 40. Akanbi Tunde Lawal @Techieman
 41. Oseni Luthfulahi Olaitan @luteeph01
 42. Adeboga Abigail Oluwafadeji @Abigail
@@ -3730,8 +3729,7 @@ Abraham Enyo-one Musa @Abseejp
 600. Oladejo Ini-Oluwa @Ini
 601. Adimoha Emmanuel @Esurf
 602. Opiner Daniel @opiner
->>>>>>> 21742b4f6ec59fe8d4536722da7faf917cb309b9
-=======
+
 1. Joseph Bassey @jonesky
 2. Aghedo Joseph Femi @femicodes
 3. Kole-Ibrahim AbdulQudus @femi_dd
@@ -4281,6 +4279,7 @@ Abraham Enyo-one Musa @Abseejp
 547. Justice Otuya Ugochukwu @justiceotuya
 548. Achem Samuel @Sammy
 549. Oluwatobi Adenekan @uncletee
+
 550. Olamide Faniyan @pajimo
 551. Ashibekong John Ishado @johnishado
 552. matthew bernard @matthew
@@ -4837,8 +4836,7 @@ Abraham Enyo-one Musa @Abseejp
 1102. Aghwotu Blessing Ovuoke @ediri_aghwotu
 1103. Okpara Emmanuel @Chidi
 1104. Umar Adamu @umar
->>>>>>> a2517788bdd6b1ba52715cf919b6507ae34f81f3
-=======
+
 1. Joseph Bassey @jonesky
 2. Aghedo Joseph Femi @femicodes
 3. Kole-Ibrahim AbdulQudus @femi_dd
@@ -6033,12 +6031,24 @@ Abraham Enyo-one Musa @Abseejp
 1185. Oyede oluwafunbi @Funbi
 1186. Orji Chidinma @chidinma
 1187. Kruga Owodeha-Ashaka @kruga
-<<<<<<< HEAD
+
 1188. Achim Munene @achim
 1189. Odom Ogochukwu @Godsfavour
-=======
+
 1188. Achim Munene @achim 
 1189. Ifiok 'Menadio' Udoidiok 
-1190. Ainiye Nnamdi @dingeoc
->>>>>>> 42165808e58e6c9be3cc3939323c883858eccdc8
->>>>>>> f7c3ec4bf89d66e19e1d43fed2e76b61af414449
+1190. Aninye Nnamdi @dingeoc
+
+550. Olamide Faniy
+551. Adekunte Tolulope David @Adtrex 
+552. Olanrewaju Yusuf @lanrewells
+553. Anerico Dan @Dan
+554. Onyekpa Oluchi @Oluchii
+555. Abimbola Oladapo @Believe
+556. Lateef Babatunde Omotosho @tundeom
+557. Adebanjo Oluwatominiyin @TomAde
+558. Michael Christian Chukwuebuka @nwakristi
+559. Saka Kabiru Ayoku @SKA
+560. Abifarin Joshua Opeyemi @yemi1212
+561. Adebanwo Oluwaseun @findseun
+
